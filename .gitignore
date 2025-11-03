@@ -2,3 +2,4 @@ target
 dojo_mainnet.toml
 .env
 .env.sepolia
+deploy_on_Sepolia.sh

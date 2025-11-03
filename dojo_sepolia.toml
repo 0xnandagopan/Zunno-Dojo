@@ -9,4 +9,5 @@ default = "zunno_game"
 # rpc_url = ""         # env: STARKNET_RPC_URL
 # account_address = "" # env: DOJO_ACCOUNT_ADDRESS
 # private_key = ""     # env: DOJO_PRIVATE_KEY
-# world_address = "<World Address>"
+world_address = 0x04db52a78fb32645d33adb4e60dbe40bd9b5a2f2b02a93e44181ec16e574922b
+world_block = 2765952
