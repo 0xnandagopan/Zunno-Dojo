@@ -1,6 +1,6 @@
 // dojo decorator
 #[dojo::contract]
-pub mod game_room {
+pub mod actions {
     use dojo::event::EventStorage;
     use dojo::model::{Model, ModelStorage};
     use starknet::{ContractAddress, get_block_timestamp, get_caller_address};

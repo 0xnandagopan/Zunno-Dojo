@@ -1,5 +1,5 @@
 pub mod systems {
-    pub mod game_items;
+    pub mod actions;
 }
 
 pub mod errors;
